@@ -1,0 +1,12 @@
+# Node modules folder 
+node_modules
+
+# Configuration files 
+src/**/config.js
+
+#ignore package-lock.json
+package-lock.json
+
+# VSCode
+.vscode
+*.design
